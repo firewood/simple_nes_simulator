@@ -1,0 +1,8 @@
+.DS_Store
+*.a
+*.o
+*.tmp
+xcuserdata
+DerivedData
+sim
+test
