@@ -7,6 +7,8 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-  dump_instructions();
+  Cpu cpu;
+  cpu.dump_instructions();
+//  dump_instructions();
   return 0;
 }
